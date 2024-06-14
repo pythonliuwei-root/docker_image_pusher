@@ -4,3 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 arm64v8/ubuntu
 arm64v8/ubuntu:22.04
+nvcr.io/nvidia/pytorch:19.05-py3
