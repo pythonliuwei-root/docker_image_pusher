@@ -5,3 +5,4 @@ xhofe/alist:latest
 arm64v8/ubuntu
 arm64v8/ubuntu:22.04
 nvcr.io/nvidia/pytorch:19.05-py3
+nvcr.io/nvidia/pytorch:20.12-py3
