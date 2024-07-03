@@ -1,1 +1,3 @@
 dokken/ubuntu-22.04
+node-alpine
+nginx:alpine
