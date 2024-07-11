@@ -1,3 +1,4 @@
 ubuntu:22.04
 node
 nginx
+amd64/ubuntu:22.04
